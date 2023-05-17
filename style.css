@@ -1,0 +1,63 @@
+.self-picture {
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+}
+
+.introduction {
+    background-color: #537188;
+}
+
+h1 {
+    color: #CBB279;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-weight: bold;
+    font-family: "Sacramento", cursive;
+}
+
+.title-text,h3,p {
+    font-family: 'Merriweather', serif;;
+}
+
+.title-text > p {
+ color: #EEEEEE;
+}
+
+.title-text > h2 {
+    color: #CBB279;
+    font-size: 2rem;
+    margin: 50px auto 0 auto;
+    font-weight: bold;    
+}
+
+hr {
+    border: dotted #537188 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h2 {
+    color: #537188;
+    font-size: 2.5rem; 
+}
+
+h3 {
+    color: #CBB279;
+    font-size: 1.5rem;
+}
+
+span {
+    color: #CBB279
+}
+
+.copyright {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
